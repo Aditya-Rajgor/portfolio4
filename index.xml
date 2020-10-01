@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Aditya Rajgor</title>
+    <link>https://aditya-rajgor.github.io/portfolio4/</link>
+    <description>Recent content in Data Science Portfolio on Aditya Rajgor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Sep 2020 10:58:08 -0400</lastBuildDate><atom:link href="https://aditya-rajgor.github.io/portfolio4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle ML Problem</title>
+      <link>https://aditya-rajgor.github.io/portfolio4/post/chapter-1/</link>
+      <pubDate>Mon, 28 Sep 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://aditya-rajgor.github.io/portfolio4/post/chapter-1/</guid>
+      <description>We all know about legendary movie Titanic,that romantic story is unfortunately fictional, but the disaster was real. On April 15, 1912, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.</description>
+    </item>
+    
+  </channel>
+</rss>
